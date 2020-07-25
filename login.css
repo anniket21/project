@@ -1,0 +1,20 @@
+body{
+    background:url(/home/aniket/Downloads/image1.jpg);
+    background-repeat: no-repeat;
+    
+    }
+
+
+.form1 {
+    position: relative;
+    left:430px;
+    margin-top:240px;
+}
+
+input{
+    height:35px;
+    width:300px;
+    border-radius: 10px;
+    border:transparent;
+}
+/*----------

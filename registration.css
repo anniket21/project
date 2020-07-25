@@ -1,0 +1,43 @@
+body{ 
+     background:url(/home/aniket/Downloads/image1.jpg);
+     background-repeat: no-repeat;
+
+}
+
+h1{
+   position:relative;
+   left:530px;
+   font-size: 40px;
+   color:black;
+
+}
+
+.reg1{
+    position: relative;
+    left: 400px;
+    margin-top: 150px;
+}
+
+label{
+    display: inline-block;
+    width:140px;
+    color:black;
+}
+
+input{
+    width:300px;
+    height:36px;
+    border-radius:17px;
+    border-style: none;
+
+}
+
+button{
+    position: relative;
+    left:150px;
+}
+
+label{
+    font-size: 18px;
+}
+
